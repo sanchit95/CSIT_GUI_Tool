@@ -9,10 +9,9 @@ Steps to execute GUI:-
 
 3) The GUI Tool will appear as a new window.
 
-4)To enter a SISO system  eg: (s+2)/(s+2+s^2)  enter as follows 
-			numerator :     s+2
-			denominator :  s+2+s^2 
+4) To enter a SISO system  eg: (s+2)/(s+2+s^2)  enter as 
+	numerator   :    s+2
+	denominator :  s+2+s^2 
 5) Then press "Enter".
 
-6) To analyze the system , you can use various other functions by selecting 
-from the menu provided above and then clicking the corresponding button(function).
+6) To analyze the system , you can use various other functions by selecting from the menu provided above and then clicking the corresponding button(function).
