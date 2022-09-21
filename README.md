@@ -1,5 +1,8 @@
-# CSIT_GUI_Tool
-This is an open source GUI based tool CSIT (Control Systems Interactive Toolbox), that can be used to analyze and learn Control Systems. The tool was developed under the FOSSEE project at Indian Institute of Technology, Bombay.
+# CSIT_OpenSource_Toolbox
+CSIT: An Open Source and interactive GUI based tool for learning and analyzing Control Systems
+Paper link: https://ieeexplore.ieee.org/abstract/document/7855953  
+
+This is an open source GUI based tool CSIT (Control Systems Interactive Toolbox), that can be used to analyze and learn Control Systems. The tool was developed under the FOSSEE project at Indian Institute of Technology, Bombay. 
 
 Steps to execute GUI:-
 
